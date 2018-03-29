@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2015\Projects\PartA_Q1\PartA_Q1\bin\Debug\PartA_Q1.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\PartA_Q1\PartA_Q1\bin\Debug\PartA_Q1.exe
+c:\users\dell\documents\visual studio 2015\Projects\PartA_Q1\PartA_Q1\bin\Debug\PartA_Q1.pdb
+c:\users\dell\documents\visual studio 2015\Projects\PartA_Q1\PartA_Q1\obj\Debug\PartA_Q1.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\PartA_Q1\PartA_Q1\obj\Debug\PartA_Q1.exe
+c:\users\dell\documents\visual studio 2015\Projects\PartA_Q1\PartA_Q1\obj\Debug\PartA_Q1.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\PartA_Q1&2\PartA_Q1\bin\Debug\PartA_Q1.exe.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\PartA_Q1&2\PartA_Q1\obj\Debug\PartA_Q1.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\PartA_Q1&2\PartA_Q1\obj\Debug\PartA_Q1.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\PartA_Q1&2\PartA_Q1\bin\Debug\PartA_Q1.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\PartA_Q1&2\PartA_Q1\bin\Debug\PartA_Q1.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\PartA_Q1&2\PartA_Q1\obj\Debug\PartA_Q1.csprojResolveAssemblyReference.cache
