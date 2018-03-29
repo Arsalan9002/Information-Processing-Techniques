@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Tasks>
+	<Task name="Backup PST File" type="SecureBackup">
+		<Occurrence starttime="20171120 03:49" repeat="3m" endtime="20171120 03:50" />
+		<SecureBackup src="c:\Importantfile.pst" dest="e:\outputfolder\" />
+	</Task>
+	<Task name="Take MemoryFootprint" type="memoryfootprint">
+		<Occurrence starttime="20171120 03:49" repeat="12m" endtime="20171120 03:52" />
+		<SecureBackup src="c:\Importantfile.pst" dest="e:\outputfolder\" />
+	</Task>
+	<!--<Task name="Restore PST File" type="RestoreBackup">
+		<Occurrence starttime="20171120 3:36" repeat="5m" endtime="20171120 3:37" />
+		<SecureBackup src="c:\Importantfile.pst" dest="e:\outputfolder\" />
+	</Task>-->
+	
+</Tasks>

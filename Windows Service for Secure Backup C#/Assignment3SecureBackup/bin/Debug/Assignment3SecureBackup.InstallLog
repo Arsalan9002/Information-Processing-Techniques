@@ -1,0 +1,609 @@
+﻿Installing assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\ATHER\Documents\Visual Studio 2017\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Unable to create an instance of the Assignment3SecureBackup.ServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+An exception occurred during the uninstallation of the Assignment3SecureBackup.ProjectInstaller installer.
+System.ArgumentException: The savedState dictionary contains inconsistent data and might have been corrupted.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service SecureBackup...
+Service SecureBackup has been successfully installed.
+Creating EventLog source SecureBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source SecureBackup.
+Service SecureBackup is being removed from the system...
+Service SecureBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service SecureBackup...
+Creating EventLog source SecureBackup in log Application...
+Rolling back assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Restoring event log to previous state for source SecureBackup.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service SecureFileBackup...
+Service SecureFileBackup has been successfully installed.
+Creating EventLog source SecureFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source SecureFileBackup.
+Service SecureFileBackup is being removed from the system...
+Service SecureFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service FileBackup...
+Service FileBackup has been successfully installed.
+Creating EventLog source FileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service FileBackup...
+Creating EventLog source FileBackup in log Application...
+Rolling back assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Restoring event log to previous state for source FileBackup.
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source FileBackup.
+Service FileBackup is being removed from the system...
+Service FileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Creating EventLog source MyFileBackup in log Application...
+Rolling back assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Restoring event log to previous state for source MyFileBackup.
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Uninstalling assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Removing EventLog source MyFileBackup.
+Service MyFileBackup is being removed from the system...
+Service MyFileBackup was successfully removed from the system.
+Installing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
+Installing service MyFileBackup...
+Service MyFileBackup has been successfully installed.
+Creating EventLog source MyFileBackup in log Application...
+Committing assembly 'C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.InstallLog
+   assemblypath = C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment3SecureBackup\Assignment3SecureBackup\bin\Debug\Assignment3SecureBackup.exe
