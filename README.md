@@ -1,1 +1,1 @@
-# Information-Processing-Techniques-Assignments
+# Information-Processing-Techniques
